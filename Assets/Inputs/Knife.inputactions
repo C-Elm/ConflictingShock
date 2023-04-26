@@ -1,0 +1,34 @@
+{
+    "name": "Knife",
+    "maps": [
+        {
+            "name": "Knife",
+            "id": "87987f9c-8a84-42e9-810a-21a139cb0b28",
+            "actions": [
+                {
+                    "name": "Attack",
+                    "type": "Button",
+                    "id": "ebfc689c-1236-4f1e-8a03-100e12f57ebb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "80c8501a-dfac-4435-9a57-71a1e82d2a98",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
